@@ -54,12 +54,12 @@ namespace MyGame
                 {
                     if (Collision.IsBoxColliding(transform, player.Transform))
                     {
-                        // Buscar el portal de destino
+
                         Portal targetPortal = GameManager.Instance.LevelController.portalList.FirstOrDefault(p => p.portalId == this.portalId && p.portalType != this.portalType && p != this);
 
                         if (targetPortal != null)
                         {
-                            // Mover al jugador al centro del otro portal
+
                             player.Transform.PosX = targetPortal.transform.PosX + targetPortal.transform.ScaleX / 2 - player.Transform.ScaleX / 2;
                             player.Transform.PosY = targetPortal.transform.PosY + targetPortal.transform.ScaleY / 2 - player.Transform.ScaleY / 2;
 

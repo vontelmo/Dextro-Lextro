@@ -17,21 +17,21 @@ namespace MyGame
     {
         public float x { get; set; }
         public float y { get; set; }
-        public string type { get; set; }  // "Dextro" o "Lextro"
+        public string type { get; set; }
     }
 
     public class FloorData
     {
         public float x { get; set; }
         public float y { get; set; }
-        public string type { get; set; }  // "Small", "Medium", "Large", "Wall"
+        public string type { get; set; } 
     }
 
     public class PortalData
     {
         public float x { get; set; }
         public float y { get; set; }
-        public string type { get; set; }  // "Blue" o "Orange"
+        public string type { get; set; }
         public int id { get; set; }
     }
 

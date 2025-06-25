@@ -1,0 +1,33 @@
+{
+  "players": [
+    { "x": 10, "y": 650, "type": "Dextro" },
+    { "x": 800, "y": 50, "type": "Lextro" }
+  ],
+  "floors": [
+    { "x": 0, "y": -50, "type": "Large" },
+    { "x": 0, "y": 100, "type": "Large" },
+    { "x": 0, "y": 250, "type": "Large" },
+    { "x": 0, "y": 400, "type": "Large" },
+    { "x": 0, "y": 550, "type": "Large" },
+    { "x": 0, "y": 700, "type": "Large" },
+    { "x": -40, "y": 0, "type": "Wall" },
+    { "x": 890, "y": 0, "type": "Wall" }
+  ],
+  "portals": [
+    { "x": 850, "y": 620, "type": "Blue", "id": 0 },
+    { "x": 30, "y": 490, "type": "Orange", "id": 0 },
+    { "x": 25, "y": 20, "type": "Blue", "id": 1 },
+    { "x": 800, "y": 180, "type": "Orange", "id": 1 },
+    { "x": 790, "y": 490, "type": "Blue", "id": 2 },
+    { "x": 850, "y": 340, "type": "Orange", "id": 2 },
+    { "x": 30, "y": 180, "type": "Blue", "id": 3 },
+    { "x": 30, "y": 340, "type": "Orange", "id": 3 }
+  ],
+  "dragonHeads": [
+    { "x": 875, "y": 520, "direction": -1 },
+    { "x": 10, "y": 220, "direction": 1 }
+  ],
+  "sandClocks": [
+    {"x": 0, "y": 0, "timer": 30.0}
+  ]
+}

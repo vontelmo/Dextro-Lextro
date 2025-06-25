@@ -50,7 +50,7 @@ namespace MyGame
 
         public void Destroy()
         {
-            //GameManager.Instance.LevelController.GameObjectList.Remove(this);
+            GameManager.Instance.LevelController.GameObjectList.Remove(this);
         }
     }
 }

@@ -83,7 +83,7 @@ namespace MyGame
                     break;
             }
             float fps = 1.0f / Time.DeltaTime;
-            //Console.WriteLine($"FPS: {fps}");
+
         }
         public void Render()
         {

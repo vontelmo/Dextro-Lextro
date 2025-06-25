@@ -11,7 +11,7 @@ namespace MyGame
         private List<Fireball> fireballsInUse = new List<Fireball>();
         private List<Fireball> fireballsAvailable = new List<Fireball>();
 
-        public Fireball GetFireball(DragonHead dragonHead ) //crear primero dragonhead asdsd asdsadfsfdfgh sakbldbflfbluisF
+        public Fireball GetFireball(DragonHead dragonHead ) 
         {
 
             Fireball newFireball = null;

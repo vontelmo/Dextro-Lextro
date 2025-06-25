@@ -74,8 +74,6 @@ namespace MyGame
 
             Gravity();
 
-            //Engine.Debug(onFloor.ToString());
-
         }
         public void Gravity()
         {
@@ -87,7 +85,7 @@ namespace MyGame
             }
             if (onFloor) 
             {
-                gravity = 0; // resetea si está en el piso
+                gravity = 0; 
             }
 
             transform.Translate(0, 1, velocityY * Time.DeltaTime);
@@ -162,7 +160,7 @@ namespace MyGame
 
             if (timer > jumpCooldown && onFloor)
             {
-                velocityY = -495; // ajustá esta fuerza de salto
+                velocityY = -495;
                 timer = 0;
             }
         }
