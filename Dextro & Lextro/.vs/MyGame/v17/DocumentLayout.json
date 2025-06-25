@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\dynamicpoolfb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:dynamicpoolfb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\engine\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:engine\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\assets\\levels\\level5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:assets\\levels\\level5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\assets\\levels\\level4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:assets\\levels\\level4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\levels\\level1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:assets\\levels\\level1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\levels\\level2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:assets\\levels\\level2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\assets\\levels\\level3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:assets\\levels\\level3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\sandclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:sandclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\assets\\levels\\level0.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:assets\\levels\\level0.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\compumar\\downloads\\dextro \u0026 lextrosegundaentrega\\dextro \u0026 lextro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:54:33.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicPoolFB.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\DynamicPoolFB.cs",
+              "RelativeDocumentMoniker": "DynamicPoolFB.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\DynamicPoolFB.cs",
+              "RelativeToolTip": "DynamicPoolFB.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:19:39.531Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\LevelController.cs",
+              "RelativeDocumentMoniker": "LevelController.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\LevelController.cs",
+              "RelativeToolTip": "LevelController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:34:41.119Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T02:32:12.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Engine\\Engine.cs",
+              "RelativeDocumentMoniker": "Engine\\Engine.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Engine\\Engine.cs",
+              "RelativeToolTip": "Engine\\Engine.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:14:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Engine\\Image.cs",
+              "RelativeDocumentMoniker": "Engine\\Image.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Engine\\Image.cs",
+              "RelativeToolTip": "Engine\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:14:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fireball.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Fireball.cs",
+              "RelativeDocumentMoniker": "Fireball.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Fireball.cs",
+              "RelativeToolTip": "Fireball.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:14:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Level5.json",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level5.json",
+              "RelativeDocumentMoniker": "assets\\Levels\\Level5.json",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level5.json",
+              "RelativeToolTip": "assets\\Levels\\Level5.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T08:03:21.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level4.json",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level4.json",
+              "RelativeDocumentMoniker": "assets\\Levels\\Level4.json",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level4.json",
+              "RelativeToolTip": "assets\\Levels\\Level4.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T07:52:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LevelData.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\LevelData.cs",
+              "RelativeDocumentMoniker": "LevelData.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\LevelData.cs",
+              "RelativeToolTip": "LevelData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:35:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Spikes.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Spikes.cs",
+              "RelativeDocumentMoniker": "Spikes.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Spikes.cs",
+              "RelativeToolTip": "Spikes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:28:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level3.json",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level3.json",
+              "RelativeDocumentMoniker": "assets\\Levels\\Level3.json",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level3.json",
+              "RelativeToolTip": "assets\\Levels\\Level3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T07:17:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Level0.json",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level0.json",
+              "RelativeDocumentMoniker": "assets\\Levels\\Level0.json",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level0.json",
+              "RelativeToolTip": "assets\\Levels\\Level0.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T06:19:45.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Level1.json",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level1.json",
+              "RelativeDocumentMoniker": "assets\\Levels\\Level1.json",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level1.json",
+              "RelativeToolTip": "assets\\Levels\\Level1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T03:20:01.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level2.json",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level2.json",
+              "RelativeDocumentMoniker": "assets\\Levels\\Level2.json",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\assets\\Levels\\Level2.json",
+              "RelativeToolTip": "assets\\Levels\\Level2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T04:57:02.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Floor.cs",
+              "RelativeDocumentMoniker": "Floor.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Floor.cs",
+              "RelativeToolTip": "Floor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:22:53.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SandClock.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\SandClock.cs",
+              "RelativeDocumentMoniker": "SandClock.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\SandClock.cs",
+              "RelativeToolTip": "SandClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:30:14.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:17:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\PlayerController.cs",
+              "RelativeDocumentMoniker": "PlayerController.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\PlayerController.cs",
+              "RelativeToolTip": "PlayerController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T02:37:53.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Time.cs",
+              "RelativeDocumentMoniker": "Time.cs",
+              "ToolTip": "C:\\Users\\Compumar\\Downloads\\Dextro \u0026 LextroSegundaEntrega\\Dextro \u0026 Lextro\\Time.cs",
+              "RelativeToolTip": "Time.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:59:09.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

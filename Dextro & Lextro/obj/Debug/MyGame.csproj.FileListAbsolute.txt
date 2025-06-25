@@ -1,0 +1,265 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fuenteJuegoNaves.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\inicio.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\bullet.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\enemy.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\littleidea.mp3
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\musica.wav
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\bin\Debug\assets\background.png
+C:\Users\Compumar\Downloads\Proyecto Base\Proyecto Base\bin\Debug\assets\Player\Idle\0.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\background.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Compumar\Desktop\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Compumar\Desktop\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Desktop\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Compumar\Desktop\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Compumar\Desktop\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Floor.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerDextro1.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerDextro2.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerDextro3.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerDextro4.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerDextro5.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerDextro6.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerLextro1.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerLextro2.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerLextro3.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerLextro4.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerLextro5.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Player\Idle\PlayerLextro6.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\FloorL.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\FloorM.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Wall.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\MainMenu.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\GameOver.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Victory.png
+C:\Users\Compumar\Desktop\Proyecto Base\bin\Debug\assets\Fonts\Daydream.ttf
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Fonts\Daydream.ttf
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\background.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Floor.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\FloorL.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\FloorM.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\GameOver.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\MainMenu.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro1.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro2.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro3.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro4.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro5.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro6.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro1.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro2.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro3.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro4.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro5.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro6.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Victory.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Wall.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\MyGame.exe.config
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\MyGame.exe
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\MyGame.pdb
+C:\Users\Compumar\Desktop\Dextro & Lextro\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Compumar\Desktop\Dextro & Lextro\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Desktop\Dextro & Lextro\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Compumar\Desktop\Dextro & Lextro\obj\Debug\MyGame.exe
+C:\Users\Compumar\Desktop\Dextro & Lextro\obj\Debug\MyGame.pdb
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Portal1.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Portal2.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Fireball.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\DragonCanon.png
+C:\Users\Compumar\Desktop\Dextro & Lextro\bin\Debug\assets\Fonts\arial.ttf
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.exe.config
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.exe
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.pdb
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\DragonCanon.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Fireball.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Fonts\Daydream.ttf
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\background.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Floor.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\FloorL.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\FloorM.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\GameOver.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\MainMenu.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro1.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro2.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro3.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro4.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro5.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro6.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro1.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro2.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro3.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro4.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro5.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro6.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Portal1.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Portal2.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Victory.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Wall.png
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Fonts\arial.ttf
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\MyGame.exe.config
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\MyGame.exe
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\MyGame.pdb
+C:\Users\alu765\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\DragonCanon.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Fireball.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Fonts\Daydream.ttf
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\background.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Floor.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\FloorL.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\FloorM.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\GameOver.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\MainMenu.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro1.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro2.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro3.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro4.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro5.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerDextro6.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro1.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro2.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro3.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro4.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro5.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Player\Idle\PlayerLextro6.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Portal1.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Portal2.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Victory.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Wall.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Fonts\arial.ttf
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\MyGame.exe.config
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\MyGame.exe
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\MyGame.pdb
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.exe.config
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.exe
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\obj\Debug\MyGame.pdb
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Buffers.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Memory.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Text.Json.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.ValueTuple.dll
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Buffers.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Memory.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Text.Json.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\System.ValueTuple.xml
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level1.json
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\background_2.0.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level2.json
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock1.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock10.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock11.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock2.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock3.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock4.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock5.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock6.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock7.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock8.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock9.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock12.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock13.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock14.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock15.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock16.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock17.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock18.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock19.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock20.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock21.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock22.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock23.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock24.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock25.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock26.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock27.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\SandClock\SandClock28.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level_PlaceHolder.json
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level0.json
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Spikes.png
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level3.json
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level4.json
+C:\Users\Compumar\Downloads\Dextro & LextroSegundaEntrega\Dextro & Lextro\bin\Debug\assets\Levels\Level5.json
